@@ -1,4 +1,4 @@
-Homebrew-formula-syntax
+Homebrew Formula Syntax
 =======================
 
 TextMate Syntax for Homebrew formulae (supporting the embedded diff)
@@ -13,10 +13,12 @@ detected.
 
 This tmLanguange here is simple enough - I wrote it directly in xml.
 
-### How to use
--	Clone this repo directly in TextMate 2's Bundles directory like this:
-	`cd ~/Library/Application\ Support/Avian/Bundles/`
-	`git clone git@github.com:mcdado/Homebrew-Formula-Syntax.tmbundle.git "Homebrew Formula Syntax.tmbundle"`
+### Installation
+-   Clone this repo directly in TextMate 2's Bundles directory like this:
+```
+cd ~/Library/Application\ Support/Avian/Bundles/
+git clone git@github.com:mcdado/Homebrew-Formula-Syntax.tmbundle.git "Homebrew Formula Syntax.tmbundle"
+```
 
 ### Note
 -   Updates to either source.ruby or source.diff are automatically
