@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>tvguho@fnzhrywbua.qr</string>
+	<key>contactName</key>
+	<string>Samuel John</string>
+	<key>description</key>
+	<string>Syntax for Homebrew formulae (supporting the embedded diff)</string>
+	<key>name</key>
+	<string>Homebrew Formula Syntax</string>
+	<key>uuid</key>
+	<string>C369A08B-1453-43C8-ADFA-A889E6DD7391</string>
+</dict>
+</plist>
