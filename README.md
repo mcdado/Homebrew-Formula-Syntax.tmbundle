@@ -16,7 +16,7 @@ This tmLanguange here is simple enough - I wrote it directly in xml.
 ### Installation
 -   Clone this repo directly in TextMate 2's Bundles directory like this:
 ```
-cd ~/Library/Application\ Support/Avian/Bundles/
+cd ~/Library/Application\ Support/Avian/Pristine Copy/Bundles
 git clone git@github.com:mcdado/Homebrew-Formula-Syntax.tmbundle.git "Homebrew Formula Syntax.tmbundle"
 ```
 
