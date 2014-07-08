@@ -13,9 +13,10 @@ detected.
 This tmLanguange here is simple enough - I wrote it directly in xml.
 
 ## Installation ##
--   Clone this repo directly in TextMate 2's Bundles directory like this:
-`cd ~/Library/Application\ Support/Avian/Pristine Copy/Bundles`
-`git clone https://github.com/mcdado/Homebrew-Formula-Syntax.tmbundle.git "Homebrew Formula Syntax.tmbundle"`
+- Clone this repo directly in TextMate 2's bundles directory from Terminal like this:  
+`cd ~/Library/Application\ Support/Avian/Pristine Copy/Bundles`  
+`git clone https://github.com/mcdado/Homebrew-Formula-Syntax.tmbundle.git "Homebrew Formula Syntax.tmbundle"`  
+- Alternatively, you can download this repo as ZIP and double click on Homebrew-Formula-Syntax.tmbundle.git 
 
 ## Notes ##
 -   Updates to either source.ruby or source.diff are automatically
